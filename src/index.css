@@ -1,0 +1,12 @@
+.mb {
+  margin-bottom: 10px;
+}
+
+.success {
+  color: rgb(0, 194, 0);
+  font-weight: 600;
+}
+
+.tx.hide {
+  display: none;
+}
